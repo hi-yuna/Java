@@ -1,5 +1,5 @@
 
-public class literal {
+public class Ex01 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -13,7 +13,7 @@ public class literal {
 		System.out.println('\uB098');
 		System.out.println(true);
 		System.out.println(false);
-		System.out.println('\t'+"홍길동");
+		System.out.println('\t'+"나유나");
 		
 	}
 
